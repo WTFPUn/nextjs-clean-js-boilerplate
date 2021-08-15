@@ -14,9 +14,9 @@ This is my only dependencies installation without any basic code for working on 
 ## Create Your Own Project
 Execute the following command to create your project
 ```bash
-yarn create next-app -e https://github.com/riflowth/nextjs-boilerplate
+yarn create next-app -e https://github.com/riflowth/nextjs-clean-js-boilerplate
 ```
 or
 ```bash
-npx create-next-app -e https://github.com/riflowth/nextjs-boilerplate/
+npx create-next-app -e https://github.com/riflowth/nextjs-clean-js-boilerplate
 ```
